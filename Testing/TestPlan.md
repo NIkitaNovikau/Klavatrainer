@@ -81,4 +81,4 @@
 
 <a name="7"></a>
 ### 7. Выводы
-Приведенный выше тестовый план позволяет проверить, отвечает ли приложение требованиям, описанным в [SRS.md](https://github.com/AnastasiaKviatsinskaya/tritpo/blob/master/Documentation/SRS.md). При выполнении всех аспектов тестирования можно утверждать, что приложение сконструировано корректно.
+Приведенный выше тестовый план позволяет проверить, отвечает ли приложение требованиям, описанным в  [Requirements Documents.md](https://github.com/NIkitaNovikau/Klavatrainer/blob/main/Documentation/Requirements%20Documents.md). При выполнении всех аспектов тестирования можно утверждать, что приложение сконструировано корректно.
