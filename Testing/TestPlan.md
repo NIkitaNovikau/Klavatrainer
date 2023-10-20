@@ -9,7 +9,7 @@
 
 <a name="1"></a>
 ### 1. Введение
-Содержание данного документа описывает план тестирования разрабатываемого приложения. Более подробную информацию о приложении можно найти в документе [SRS.md](https://github.com/AnastasiaKviatsinskaya/tritpo/blob/master/Documentation/SRS.md).  
+Содержание данного документа описывает план тестирования разрабатываемого приложения. Более подробную информацию о приложении можно найти в документе [Requirements Documents.md](https://github.com/NIkitaNovikau/Klavatrainer/blob/main/Documentation/Requirements%20Documents.md).
 Данный план предназначен для тестирования приложения Klavatrainer". Цель проведения тестирования - проверка работоспособности и пригодности приложения для практического использования.
 
 <a name="2"></a>
@@ -77,7 +77,7 @@
 <a name="6"></a>
 ### 6. Представление результатов
 
-Представление результатов тестирования представлены в документе ["Результаты тестирования"](https://github.com/AnastasiaKviatsinskaya/tritpo/blob/master/Testing/testResult.md).
+Представление результатов тестирования представлены в документе ["Результаты тестирования"](https://github.com/NIkitaNovikau/Klavatrainer/blob/main/Testing/testResult.md).
 
 <a name="7"></a>
 ### 7. Выводы
